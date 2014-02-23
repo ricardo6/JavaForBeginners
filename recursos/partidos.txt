@@ -1,0 +1,5 @@
+Brazil::Argentina::1::0
+Bolivia::Paraguay::3::2
+Chile::Peru::0::0
+Venezuela::Colombia::2::2
+Uruguay::Ecuador::0::1
